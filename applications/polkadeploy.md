@@ -61,7 +61,7 @@ PolkaDeploy provides an integrated suite of tools specifically designed for Polk
 
 ### PolkaDeploy Architecture
 
-![PolkaDeploy Architecture](https://raw.githubusercontent.com/Emmylong1/apply/main/polkadeploy-architecture.svg)
+![PolkaDeploy Architecture](https://raw.githubusercontent.com/Emmylong1/Pokaci-infra/main/polkadeploy-architecture.svg)
 
 ## Milestones and Deliverables
 
